@@ -6,10 +6,11 @@
     "verifier": "Trickery",
     "verification": "https://www.youtube.com/watch?v=17utUKsuKVU",
     "password": "Free to Copy",
+    "percentToQualify": "100",
     "records": [
         {
             "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "#",
             "percent": 100,
             "hz": 360
         }
