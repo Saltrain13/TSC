@@ -2,7 +2,7 @@
     "id": 101000975,
     "name": "Shitty Silent Club",
     "author": "Trickery",
-    "creators": "Trickery",
+    "creators": ["Trickery"],
     "verifier": "Lisyteam1230",
     "verification": "https://youtu.be/U1SQiP6P66M?si=dLj4TBLOIC4lhSCW",
     "percentToQualify": "100",
