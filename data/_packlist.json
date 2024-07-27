@@ -3,5 +3,10 @@
     "name": "MXGaming01 Pack",
     "levels": ["Shitty VSCE", "Shitty XO Circles", "Shitty Nine Circles"],
     "colour": "#3ffc8b"
+    },
+    {
+    "name": "Trickery Pack",
+    "levels": ["Shitty Bloodbath", "Shitty Buff This", "Shitty Toe2"],
+    "colour": "#3f94fc".
     }
 ]
