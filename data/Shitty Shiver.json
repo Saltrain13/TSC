@@ -8,5 +8,9 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {   "user": "Trickery",
+            "link": "https://youtu.be/4Qut0jX0VMg",
+            "percent": 100
+        }
     ]
 }
